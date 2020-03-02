@@ -1,0 +1,28 @@
+.page-header { 
+  background: linear-gradient(135deg, rgba(33,192,231,1) 0%, rgba(130,245,198,1) 50%, rgba(204,255,228,1) 100%);
+  margin-top: 0;
+  padding: 40px 20px
+}
+
+.page-header h1 {
+  color: white;
+  margin: 0;
+  font-family: 'Lobster';
+}
+
+.post {
+  margin: 20px;
+  padding: 20px;
+  border: 2px solid #DDE1E4;
+  border-radius: 10px
+}
+
+.post-title, .post-title a {
+  color: #52B2CF;
+  font-family: 'Lobster';
+}
+
+.post-date {
+  margin: 0;
+  color: #676767;
+}
